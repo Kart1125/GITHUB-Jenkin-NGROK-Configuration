@@ -7,5 +7,6 @@ public class HelloWorld {
         int number = reader.nextInt();
         System.out.println("You entered: " + number);
         System.out.println("This is my first sample program");
+        System.out.println("********************************");
     }
 }
