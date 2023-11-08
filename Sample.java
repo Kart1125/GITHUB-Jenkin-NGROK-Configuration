@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.print("Enter a number: ");
         int number = reader.nextInt();
         System.out.println("You entered: " + number);
+        System.out.println("This is my first sample program");
     }
 }
